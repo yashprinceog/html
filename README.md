@@ -29,5 +29,6 @@ I would like to thank the following resources for providing inspiration and refe
 * Mozilla Developer Network
 * CSS-Tricks
 * Contact
+* Apna College
 
 If you have any questions or would like to get in touch, please feel free to contact me at [email address].
