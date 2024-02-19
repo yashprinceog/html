@@ -2,7 +2,6 @@
 
 This is a cheat sheet for HTML and CSS that I created as a reference for myself and others who are learning web development. The cheat sheet includes commonly used HTML tags, CSS selectors, and properties, as well as examples and explanations of each.
 
-![Screenshot 2023-04-08 at 7.03.12 PM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Flr%2Fqd3sgnv96xs9b39nnjvw2qth0000gp%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_bJXJuf%2FScreenshot%202023-04-08%20at%207.03.12%20PM.png)
 ## Installation
 
 To use this cheat sheet, simply clone this repository to your local machine or download the ZIP file. You can then open the index.html file in your web browser to view the cheat sheet.
