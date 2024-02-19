@@ -9,7 +9,7 @@ To use this cheat sheet, simply clone this repository to your local machine or d
 
 bash Copy code
     
-    git clone https://github.com/Romanch-New/HTML-CSS-CheatSheet.git
+    git clone https://github.com/yashprinceog/html.git
 ## Usage
 
 The cheat sheet is organized into sections for HTML and CSS, with each section containing examples and explanations of different tags, selectors, and properties. You can use this cheat sheet as a reference while learning web development or as a quick reference while coding.
